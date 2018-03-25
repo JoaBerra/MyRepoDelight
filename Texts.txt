@@ -1,2 +1,5 @@
 2017-10-10 - tillagd i BranchDelight
 2017-10-10 - Den här lägger jag till direkt i Firefox
+2018-03-25 - Nu lär jag mig GIT
+2018-03-25 - En liten ändring till
+2018-03-25 - Tredje ändringen för dagen
