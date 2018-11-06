@@ -1,5 +1,5 @@
 //
 
 if (int a == int b) {
-  printf('a');
+  printf('a'); 
 }
